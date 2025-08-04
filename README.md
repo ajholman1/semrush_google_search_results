@@ -1,2 +1,2 @@
-# semrush_google_search_results
-Repository exploring SEMRush's blog post "How to Scrape &amp; Analyze Google Search Results with Python"
+# Using semrush to explore organic search results on Google
+Repository exploring SEMRush's blog post "How to Scrape & Analyze Google Search Results with Python"
